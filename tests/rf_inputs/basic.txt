@@ -1,0 +1,7 @@
+Ref Stack 2
+Ref Heap 2 0 3 4
+Ref Stack 0
+Ref Stack 8 9
+Ref Heap 0 5 2
+Pop
+Pop
